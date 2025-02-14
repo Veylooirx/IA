@@ -18,11 +18,11 @@ Si se abre una ventana, significa que `tkinter` está correctamente instalado.
 
 ## Ejecución del Código
 
-1. Guarda el código en un archivo `cubo.py`
+1. Guarda el archivo `main.py`
 2. Ejecútalo con:
 
 ```bash
-python3 cubo.py
+python3 main.py
 ```
 
 ## Explicación del Código
