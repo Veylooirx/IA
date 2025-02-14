@@ -1,4 +1,4 @@
-# Instrucciones para Ejecutar el Código en Ubuntu
+# Cubo en 3D con biblioteca turtle 
 
 Este código usa la biblioteca `turtle` para dibujar un cubo en perspectiva isométrica en Python. 
 
